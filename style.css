@@ -80,6 +80,7 @@ a{
 .right input[type=search]{
     border-bottom:1px solid yellow ;
     color: yellow;
+    outline:0;
     
 }
 .right input[type=search]:active{
