@@ -1,5 +1,5 @@
 body{
-    background-image: url("/image/bg.jpg");
+    background-image: url("image/bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     
@@ -20,8 +20,8 @@ a{
     position: absolute;
     height: 90px;
     width: 100px;
-    animation-fill-mode: ;
-    animation: none 0.5s ease-in delay iteration-count right none;
+/*     animation-fill-mode: ;
+    animation: none 0.5s ease-in delay iteration-count right none; */
     /* border: 2px solid red; */
 }
 #logo-text{
