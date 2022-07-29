@@ -112,7 +112,7 @@ a{
     font-size: 20px;
     font-family:cursive;
     font-style:italic;
-        border: 2px solid red;
+/*         border: 2px solid red; */
 }
 .form input{
     margin:5px auto;
